@@ -11,4 +11,4 @@ VaccineSlotFinder:
 - run the slotFinder.py
 - you will get the alert 
 
-Note: Currently setup for Windows only
+Note: Currently working for Windows only
