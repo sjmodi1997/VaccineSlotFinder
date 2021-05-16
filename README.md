@@ -11,4 +11,3 @@ VaccineSlotFinder:
 - run the slotFinder.py
 - you will get the alert 
 
-Note: Currently working for Windows only
