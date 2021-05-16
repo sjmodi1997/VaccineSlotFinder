@@ -7,7 +7,11 @@ VaccineSlotFinder:
     - requests
     - bs4
 - Updates pincodes where you want to monitor
-- Update your doze availability e.g. looking for doze1/doze2
-- Run the slotFinder.py
+- Update your dose searching params as per requirements in the slotsFinder.py
+    - lookForDose1, lookForDose2 : 
+        - if both are true it will return result for both
+    - lookForCoviShield, lookForCovaxin:
+        - if both are true it will return result for both
+- Run the slotsFinder.py
 - You will get the alert 
 
