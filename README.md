@@ -1,13 +1,13 @@
 
 VaccineSlotFinder:
 
-- checkout project
-- setup python 
-- install required libs:
+- Checkout the project
+- Setup python 
+- Install required libs:
     - requests
     - bs4
-- updates pincodes where you want to monitor
-- update your doze availability e.g. looking for doze1/doze2
-- run the slotFinder.py
-- you will get the alert 
+- Updates pincodes where you want to monitor
+- Update your doze availability e.g. looking for doze1/doze2
+- Run the slotFinder.py
+- You will get the alert 
 
